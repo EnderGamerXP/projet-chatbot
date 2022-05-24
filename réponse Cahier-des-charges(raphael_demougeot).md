@@ -1,7 +1,7 @@
-_Qu’est ce qui rendrait le ChatBot naturel et efficace ?
+# _Qu’est ce qui rendrait le ChatBot naturel et efficace ?
 
-une base de donné lingustique permetant la casse.
-faute d'ortographe par exemple
+## une base de donné lingustique permetant la casse.
+ ### faute d'ortographe par exemple
 
 _Comment devrait réagir le ChatBot en cas de demande
 inconnue ?
