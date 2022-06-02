@@ -15,7 +15,7 @@ pc en réseau
 
 raspberry + câbles (usb,hdmi,lan)
 
-arduino + câbles (usb à UNO,UART*2,I2c*2,Lapp,Sick,RJ11)
+arduino + câbles (usb à UNO,UART x 2,I2c x 2,Lapp,Sick,RJ11)
 
 2 lampes
 
